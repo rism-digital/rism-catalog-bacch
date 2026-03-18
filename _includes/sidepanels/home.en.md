@@ -5,7 +5,7 @@ Edited by Claudio Bacciagaluppi, Marius Barendt, Lynn Beutler, Lydia Carlisi, Gi
 
 [https://www.hkb-interpretation.ch/luigicherubini](https://www.hkb-interpretation.ch/luigicherubini)
 
-[https://catalogs.rism.digital/BacCh](https://catalogs.rism.digital/BacCh)
+[https://catalogs.rism.online/BacCh](https://catalogs.rism.online/BacCh)
 
 [Introduction](#Intro)
 
