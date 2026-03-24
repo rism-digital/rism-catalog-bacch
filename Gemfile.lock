@@ -1,8 +1,8 @@
 GIT
-  remote: https://github.com/rism-digital/rism-catalogue-theme
-  revision: acc2d95b2e9855d99cc831a8e7431df416c4808c
+  remote: https://github.com/rism-digital/rism-catalog-theme
+  revision: 1aab58f01fae65bf5ea88e073ff4e34b81d06571
   specs:
-    rism-catalogue-theme (1.1.1)
+    rism-catalog-theme (1.2.0)
       jekyll (~> 4.1)
 
 GIT
@@ -105,7 +105,7 @@ DEPENDENCIES
   jekyll-redirect-from
   jekyll-rism-online-renderer!
   jekyll-seo-tag
-  rism-catalogue-theme!
+  rism-catalog-theme!
   rism-md!
   webrick (~> 1.7)
 

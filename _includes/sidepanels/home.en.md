@@ -1,5 +1,5 @@
 
-# A Catalogue of Luigi Cherubini's Pedagogical and Theoretical Works
+# A Catalog of Luigi Cherubini's Pedagogical and Theoretical Works
 
 Edited by Claudio Bacciagaluppi, Marius Barendt, Lynn Beutler, Lydia Carlisi, Gigliola Di Grazia, Vivian Domenjoz, Camilla Köhnken. Bern, HKB/RISM Digital Center, 2025.  
 
