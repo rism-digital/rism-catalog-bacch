@@ -6,9 +6,10 @@ title_mobile:
   de: Cherubinis theoretische Werke (BacCh)
 
 email: info@rism.digital
-baseurl: "/rism-catalog-bacch"
-version: 0.9.0
-doi: "[upcoming]"
+url: https://catalogs.rism.online
+baseurl: "/BacCh"
+version: 1.0.0
+doi: 10.5448/rism-catalogs-002
 
 sponsors:
   - url: https://fr.wikipedia.org/wiki/Licence_Creative_Commons
