@@ -5,6 +5,10 @@ lang: en
 permalink: /introduction.html
 ---
 
+The works are identified by an abbreviation for the respective genre. The abbreviation is followed by a sequential numbering system, which, in the sense of an identification number, does not indicate chronology or key sequence, but is based on the oldest printed sources. For the basses chiffrées, chants donnés and sujets de fugue, the numbering in Curtice (2016) is largely adopted, which in turn largely adopts the order in Pierre (1900, 1901). For the solfèges, the order in the first editions is used as far as possible (Agus et al. \[1799\], Agus et al. \[1801\], Cherubini \[1838\]).
+
+In view of the musicological and music-theoretical interest in historical forms of composition teaching, individual exercise pieces are listed here and treated as independent “works”. The decision to assign all basses, solfeggios or fugue themes by Cherubini their own identification number is primarily motivated by the desire to make these exercises more easily identifiable for research and teaching purposes. Important preliminary studies for this catalog include the edition of the basses chiffrées and sujets de fugue by Sean Curtice (2016) and the edition of the Cours de contrepoint by Maxime Margollé (2022). The works were cataloged as standard data using the RISM software Muscat.
+
 ## Overview of the primary sources {#Sources}
 
 A tabular overview of all known sources can be found on [Zenodo](https://doi.org/10.5281/zenodo.17750165). 
